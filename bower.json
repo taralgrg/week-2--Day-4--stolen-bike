@@ -1,0 +1,22 @@
+{
+  "name": "stolen-bike",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Mac <taralgurung@hotmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/taralgrg/week-2--Day-4--stolen-bike",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.1.1",
+    "bootstrap": "^3.3.7",
+    "moment": "^2.17.1"
+  }
+}
